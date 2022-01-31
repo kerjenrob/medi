@@ -1,0 +1,72 @@
+title{
+    font-family: 'Coda Caption', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 160%;
+    /* or 48px */
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+    
+}
+
+span {
+    color: blue;
+}
+
+
+
+header {
+    display: inline-block;
+}
+
+main
+
+section{
+    display: inline-block;
+}
+
+.intro-title {
+    font-family: 'Ramaraja', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    max-width: "495px";
+    margin-top: "254px";
+    margin-left: "175px";
+}
+
+.intro-text{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
+    max-width: "100px"
+    margin-top: "7px"
+    margin-left: "135px"
+}
+
+.button { 
+    position: absolute;
+    width: 152px;
+    height: 63.82px;
+    left: 200px;
+    top: 588.71px;
+    background-color:#4F56F1;
+    border-radius: 6px;
+}
+
+image{
+    width="100%"
+    max width= "653px"
+    margin top= "186px" 
+    margin left="157px"
+}
