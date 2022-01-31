@@ -1,4 +1,4 @@
-title{
+.logo {
     font-family: 'Coda Caption', sans-serif;
     font-style: normal;
     font-weight: 900;
@@ -7,40 +7,35 @@ title{
     /* or 48px */
     letter-spacing: -0.02em;
     color: #0A1B32;
-    
+    margin-top: 37px;
+    margin-left: 80px;
 }
 
-span {
-    color: blue;
+.logo-dot {
+    color: #4F56F1;
 }
-
-
-
-header {
-    display: inline-block;
-}
-
-main
 
 section{
     display: inline-block;
 }
 
-.intro-title {
+.main-title {
     font-family: 'Ramaraja', serif;
     font-style: normal;
-    font-weight: normal;
+    margin-top: "254px";
+    margin-left: "175px";
+    font-weight: 100%;
     font-size: 72px;
     line-height: 76px;
     /* or 106% */
     letter-spacing: 0.02em;
     color: #1B0A42;
     max-width: "495px";
-    margin-top: "254px";
-    margin-left: "175px";
+    width: 100%;
+
 }
 
-.intro-text{
+.main-text{
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -49,24 +44,33 @@ section{
     /* or 160% */
     letter-spacing: 0.02em;
     color: #9A9A9A;
-    max-width: "100px"
-    margin-top: "7px"
-    margin-left: "135px"
+    max-width: "100px";
+    margin-top: "7px";
+    margin-left: "135px";
 }
 
-.button { 
-    position: absolute;
+.main-button { 
     width: 152px;
     height: 63.82px;
-    left: 200px;
-    top: 588.71px;
     background-color:#4F56F1;
     border-radius: 6px;
+    margin-top: 65px;
+    margin-left: 232px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    border: none;
 }
 
 image{
     width="100%"
-    max width= "653px"
-    margin top= "186px" 
-    margin left="157px"
+    max width= "653px";
+    margin top= "186px";
+    margin left="157px";
 }
