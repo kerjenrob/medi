@@ -1,3 +1,25 @@
+header {
+    width: 100%;
+    max-width: 1180px;
+    margin: auto;
+    display: inline-flex;
+    justify-content: space-between;
+    padding-left: 1;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.nav{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.nav>li{
+    margin-left: 15px; /*kolla värden */
+}
+
+
 .logo {
     font-family: 'Coda Caption', sans-serif;
     font-style: normal;
@@ -13,11 +35,15 @@
 
 .logo-dot {
     color: #4F56F1;
+    
 }
 
 section{
     display: inline-block;
+    /*align-items: center;*/
 }
+
+.button-heading
 
 .main-title {
     font-family: 'Ramaraja', serif;
@@ -70,7 +96,8 @@ section{
 
 image{
     width="100%"
-    max width= "653px";
-    margin top= "186px";
-    margin left="157px";
+    max-width: "653px";
+    /*margin-top: "186px";*/
+    margin-left: "157px";
+    
 }
